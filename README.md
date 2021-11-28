@@ -1,8 +1,8 @@
 # README for Fast-Aid #
 
-This is the README file for the Fast-Aid app. It's a great place to write
-down some notes about how your app works. For starters, here is some information
-about the other files in this folder.
+This Is a project made using Applab tool provided by code.org 
+#
+It can save the live of many people during emergency 
 
 The files in this folder contain everything you need to run your app:
 
